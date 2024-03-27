@@ -1,1 +1,1 @@
-# -Building-a-CDC-with-Azure-CosmosDB-and-Redpanda
+# Building-a-CDC-with-Azure-CosmosDB-and-Redpanda
